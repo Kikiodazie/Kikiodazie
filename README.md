@@ -20,7 +20,7 @@ PS: I studied Electrical and Electronics Engineering in University (College)
 
 I am passionate about helping developers adopt cloud native technologies and build scalable, reliable, and secure applications. I am also a strong advocate for open source software (even though I don’t contribute as much I would like 😆) and believe that it is essential for innovation.
 
-<p align="center"> I WANT TO BE THE BEST <span color="#0000">DEVELOPER ADVOCATE</span> EVER!!! </p> 
+<p align="center"> I WANT TO BE THE BEST DEVELOPER ADVOCATE EVER!!! </p> 
 
 ## 🏃🏿 Personal Interests
 Aside from the world of software, I enjoy watching and playing football (soccer), listening to good music, traveling (I love airports but dread them too 😆), and having fun in my own way.
@@ -29,7 +29,19 @@ Aside from the world of software, I enjoy watching and playing football (soccer)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-odazie)](https://www.linkedin.com/in/divine-odazie) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_odazie) [![Slack Badge](https://img.shields.io/badge/CNCF_Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://cloud-native.slack.com/team/U0394EM0RRB)
 
 # 🫃🏿 My Work as a Cloud Native DevRel
+## Technical writing
+I have written over 100 technical articles for several organizations in the past 3 years and contributed to open source documentation. Below are some highlights:
 
+1. [Case study on my work on Cilium](https://cilium.io/blog/2022/11/30/cilium-google-season-of-docs-2022/)
+2. [Kubernetes Sidecar Container - Best Practices with Demo (Logging with Fluentd and Amazon S3)](https://spacelift.io/blog/kubernetes-sidecar-container)
+3. [How to run Minikube on an Apple M1 chip without Docker Desktop](https://everythingdevops.dev/how-to-run-minikube-on-apple-m1-chip-without-docker-desktop/)
+4. [Kubernetes Secrets – How to Create, Use, and Manage](https://spacelift.io/blog/kubernetes-secrets)
+5. [Building x86 Images on an Apple M1 Chip](https://everythingdevops.dev/building-x86-images-on-an-apple-m1-chip/)
+6. [Jenkins in Docker: Running Docker in a Jenkins container](https://dev.to/hackmamba/jenkins-in-docker-running-docker-in-a-jenkins-container-1je)
+7. [Automating Dependency Updates for Docker Projects (This content has a marketing approach to it)](https://odazie.hashnode.dev/automating-dependency-updates-for-docker-projects)
+
+## Speaking
+I have given a few talks, and below are links to some of them that showcase my speaking and presentation proficiency.
 
 
 ## 🚀 My Cloud Native Plans (Checklist) 5 Months From 22 August 2023
