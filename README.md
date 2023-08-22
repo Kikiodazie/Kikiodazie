@@ -20,7 +20,7 @@ PS: I studied Electrical and Electronics Engineering in University (College)
 
 I am passionate about helping developers adopt cloud native technologies and build scalable, reliable, and secure applications. I am also a strong advocate for open source software (even though I don’t contribute as much I would like 😆) and believe that it is essential for innovation.
 
-<p align="center"> I WANT TO BE THE BEST DEVELOPER ADVOCATE EVER!!! </p> 
+<p align="center">  <strong>I WANT TO BE THE BEST DEVELOPER ADVOCATE EVER!!!  </strong></p> 
 
 ## 🏃🏿 Personal Interests
 Aside from the world of software, I enjoy watching and playing football (soccer), listening to good music, traveling (I love airports but dread them too 😆), and having fun in my own way.
