@@ -32,7 +32,7 @@ Aside from the world of software, I enjoy watching and playing football (soccer)
 ## Technical writing
 I have written over 100 technical articles for several organizations in the past 3 years and contributed to open source documentation. Below are some highlights:
 
-1. [Case study on my work on Cilium](https://cilium.io/blog/2022/11/30/cilium-google-season-of-docs-2022/)
+1. [Case study on my work on Cilium documentation](https://cilium.io/blog/2022/11/30/cilium-google-season-of-docs-2022/)
 2. [Kubernetes Sidecar Container - Best Practices with Demo (Logging with Fluentd and Amazon S3)](https://spacelift.io/blog/kubernetes-sidecar-container)
 3. [How to run Minikube on an Apple M1 chip without Docker Desktop](https://everythingdevops.dev/how-to-run-minikube-on-apple-m1-chip-without-docker-desktop/)
 4. [Kubernetes Secrets – How to Create, Use, and Manage](https://spacelift.io/blog/kubernetes-secrets)
@@ -41,7 +41,26 @@ I have written over 100 technical articles for several organizations in the past
 7. [Automating Dependency Updates for Docker Projects (This content has a marketing approach to it)](https://odazie.hashnode.dev/automating-dependency-updates-for-docker-projects)
 
 ## Speaking
-I have given a few talks, and below are links to some of them that showcase my speaking and presentation proficiency.
+I have given a few talks, and below are links to some of them that showcase my speaking and presentation proficiency. I will write them in the format of {Conference}-{Talk title}.
+
+1.  [Open Source Festival 2023 --  How Reaching Out Helped Me Grow](https://youtu.be/k-gUFkery5g?t=5463)
+2.  [DoKDay at KubeCon NA 2022 -- Goals of the DoK Explorers program](https://www.youtube.com/watch?v=YWTa-DiVljY&list=PLHgdNuGxrJt04Fwaip9aDYvXrbRSmc5HZ&index=1&t=10540s)
+3.  [Ansible Contributors Summit 2022 -- How We Started the Ansible Writers Community](https://youtu.be/l9DiAYsXeM0)
+4.  [Kubernetes Community Days (KCD) Africa 2022 -- Deploying Your Spring Boot Application In Amazon Managed Kubernetes Service (EKS)](https://youtu.be/m3ub01RWtZs)
+
+## Community 
+I am active in the Cloud Native and DevOps community as:
+
+- KCD Organizer
+- AWS Community Builder for the Containers Category
+- Volunteer of Southern California Linux Expo (SCALE) Cloud Native Track
+
+## Certifications
+I think certificates are valuable in the cloud native world. And this is because of the knowledge you fill while prepping. Below are some certificates I have earned:
+
+- [AWS Solutions Architect - Associate](https://www.credly.com/badges/3dd05053-5d73-4802-baec-e48e9ffe4f95/public_url)
+- [KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/badges/1d835115-dbf5-412d-95ec-4607baa850b2/public_url)
+- Product School Masterclass: How To Build Digital Products
 
 
 ## 🚀 My Cloud Native Plans (Checklist) 5 Months From 22 August 2023
