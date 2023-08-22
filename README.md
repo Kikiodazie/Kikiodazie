@@ -26,7 +26,7 @@ I am passionate about helping developers adopt cloud native technologies and bui
 Aside from the world of software, I enjoy watching and playing football (soccer), listening to good music, traveling (I love airports but dread them too 😆), and having fun in my own way.
 
 ## 💬 Socials and How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-odazie)](https://www.linkedin.com/in/divine-odazie) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_odazie)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-odazie)](https://www.linkedin.com/in/divine-odazie) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_odazie) [![Slack Badge](https://img.shields.io/badge/CNCF_Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://cloud-native.slack.com/team/U0394EM0RRB)
 
 # 🫃🏿 My Work as a Cloud Native DevRel
 
