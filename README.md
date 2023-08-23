@@ -60,7 +60,7 @@ I am active in the Cloud Native and DevOps community as:
 - Volunteer of Southern California Linux Expo (SCALE) Cloud Native Track
 
 ## Certifications
-I think certificates are valuable in the cloud native world. And this is because of the knowledge you fill while prepping. Below are some certificates I have earned:
+I think certificates are valuable in the cloud native world. And this is because of the knowledge gaps you fill while prepping. Below are some certificates I have earned:
 
 - [AWS Solutions Architect - Associate](https://www.credly.com/badges/3dd05053-5d73-4802-baec-e48e9ffe4f95/public_url)
 - [KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/badges/1d835115-dbf5-412d-95ec-4607baa850b2/public_url)
@@ -68,7 +68,7 @@ I think certificates are valuable in the cloud native world. And this is because
 
 
 ## 🚀 My Cloud Native Plans (Checklist) 5 Months From 22 August 2023
-Below are some of my plans for the next few months as related to the [CNCF (Cloud Native Computing Foundation)](https://cncf.io/). Will check off the list and drop notes as I achieve each.
+Below are some of my plans for the next few months as related to the [CNCF (Cloud Native Computing Foundation)](https://cncf.io/). Will check off the items and drop notes as I achieve each.
 
 - [ ] Write and pass the Certified Kubernetes Application Developer (CKAD) exam.
 - [ ] Become a CNCF Ambassador.
@@ -77,7 +77,7 @@ Below are some of my plans for the next few months as related to the [CNCF (Clou
 - [ ] KCD Nigeria 2023 (TBD) is a Success. Currently among the organizers.
 - [ ] Write at least 5 Technical tutorials on cloud native on [EverythingDevOps](https://everythingdevops.dev/).
 - [ ] Speak about cloud native at more local events
-- [ ] Speak at KubeCon. Hopefully, my talk for KubeCon NA 2023 will be accepted. If not, I will apply for KubeCon EU 2024.
+- [ ] Speak at KubeCon. Hopefully, my talk for KubeCon NA 2023 will be accepted. If not, I will apply for KubeCon EU 2024. Will still apply for KubeCon EU regardless 😆.
 - [ ] Write and pass the Certified Kubernetes Administrator (CKA) exam.
 - [ ] Write and pass the AWS DevOps Engineer Professional exam.
 - [ ] and anything that comes around. 
