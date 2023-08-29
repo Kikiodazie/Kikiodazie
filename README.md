@@ -77,7 +77,9 @@ Below are some of my plans for the next few months as related to the [CNCF (Clou
 - [ ] KCD Nigeria 2023 (TBD) is a Success. Currently among the organizers.
 - [ ] Write at least 5 Technical tutorials on cloud native on [EverythingDevOps](https://everythingdevops.dev/).
 - [ ] Speak about cloud native at more local events
-- [ ] Speak at KubeCon. Hopefully, my talk for KubeCon NA 2023 will be accepted. If not, I will apply for KubeCon EU 2024. Will still apply for KubeCon EU regardless 😆.
+- [ ] ~Speak at KubeCon. Hopefully, my talk for KubeCon NA 2023 will be accepted.~ If not, I will apply for KubeCon EU 2024. Will still apply for KubeCon EU regardless 😆.
+
+      Sadly my KubeCon NA 2023 CFP was rejected. But heads up: Will apply to KubeCon EU 2024 😄😄 
 - [ ] Write and pass the Certified Kubernetes Administrator (CKA) exam.
 - [ ] Write and pass the AWS DevOps Engineer Professional exam.
 - [ ] and anything that comes around. 
